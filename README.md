@@ -22,3 +22,5 @@ tempo tem, etc.).
 Teste: Criaria um protótipo simples do app, realizaria testes de usabilidade com usuários 
 reais, recolheria feedbacks e melhoraria o app de forma iterativa até encontrar a solução 
 ideal.
+
+![canvas moeda](https://github.com/user-attachments/assets/58cb7fef-03ea-447e-a9c0-2115db29fcf2)
